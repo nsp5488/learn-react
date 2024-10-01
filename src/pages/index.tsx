@@ -3,7 +3,8 @@
 // import { Inter } from 'next/font/google'
 // import styles from '@/styles/Home.module.css'
 
-import PackingList from "./qcomps/props_item";
+import StuckForm from "./qcomps/thankYouCrash";
+import WhyState from "./components/snapshot2";
 export default function Home() {
-  return <PackingList />;
+  return <WhyState />;
 }
