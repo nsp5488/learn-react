@@ -3,8 +3,8 @@
 // import { Inter } from 'next/font/google'
 // import styles from '@/styles/Home.module.css'
 
-import StuckForm from "./qcomps/thankYouCrash";
-import WhyState from "./components/snapshot2";
+import WhyState from "./qcomps/arrObj";
+// import WhyState from "./components/artistsArr";
 export default function Home() {
   return <WhyState />;
 }
